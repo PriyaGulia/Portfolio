@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+
+div{
+    margin-top: 20%;
+    width: 50%;
+    margin-left: 25%;
+    background-color: black;
+}
+img{
+    width: 100%;
+    border: 5px solid lightblue;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}

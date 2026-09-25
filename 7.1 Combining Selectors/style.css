@@ -1,0 +1,21 @@
+/* Write your code here: */
+h1, h2{
+    color: blueviolet;
+}
+.box > p{
+    color: firebrick;
+}
+.box li {
+    color: darkgreen;
+}
+li.done{
+    background-color: darksalmon;
+    font-size: large;
+}
+p.done{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div{
+    border: dotted 4px aquamarine;
+}
+
